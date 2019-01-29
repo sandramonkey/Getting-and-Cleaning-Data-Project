@@ -1,10 +1,10 @@
-CODE BOOK
+##CODE BOOK
 
 This code book summarizes all the data in the file secTidy.txt
 
 
 
-IDENTIFIERS
+###IDENTIFIERS
 
 subjectId = The ID of the test subject
 
@@ -12,168 +12,89 @@ activityId = The type of activity performed by the test subject when the measure
 
 
 
-MEASUREMENTS
+###MEASUREMENTS
 
 *tBodyAccMeanX
-*
-tBodyAccMeanY
-
+*tBodyAccMeanY
 *tBodyAccMeanZ
-*
-tBodyAccStdX
-*
-tBodyAccStdY
-*
-tBodyAccStdZ
-*
-tGravityAccMeanX
-*
-tGravityAccMeanY
-
+*tBodyAccStdX
+*tBodyAccStdY
+*tBodyAccStdZ
+*tGravityAccMeanX
+*tGravityAccMeanY
 *tGravityAccMeanZ
-*
-tGravityAccStdX
-*
-tGravityAccStdY
-
+*tGravityAccStdX
+*tGravityAccStdY
 *tGravityAccStdZ
-*
-tBodyAccJerkMeanX
-*
-tBodyAccJerkMeanY
-*
-tBodyAccJerkMeanZ
-*
-tBodyAccJerkStdX
-
+*tBodyAccJerkMeanX
+*tBodyAccJerkMeanY
+*tBodyAccJerkMeanZ
+*tBodyAccJerkStdX
 *tBodyAccJerkStdY
-*
-tBodyAccJerkStdZ
-
+*tBodyAccJerkStdZ
 *tBodyGyroMeanX
-
 *tBodyGyroMeanY
-*
-tBodyGyroMeanZ
-*
-tBodyGyroStdX
-
+*tBodyGyroMeanZ
+*tBodyGyroStdX
 *tBodyGyroStdY
-
 *tBodyGyroStdZ
-
 *tBodyGyroJerkMeanX
-
 *tBodyGyroJerkMeanY
-
 *tBodyGyroJerkMeanZ
-
 *tBodyGyroJerkStdX
-*
-tBodyGyroJerkStdY
-
+*tBodyGyroJerkStdY
 *tBodyGyroJerkStdZ
-*
-tBodyAccMagMean
-
+*tBodyAccMagMean
 *tBodyAccMagStd
-
 *tGravityAccMagMean
-
 *tGravityAccMagStd
-
 *tBodyAccJerkMagMean
-
 *tBodyAccJerkMagStd
-
 *tBodyGyroMagMean
-
 *tBodyGyroMagStd
-*
-tBodyGyroJerkMagMean
-*
-tBodyGyroJerkMagStd
+*tBodyGyroJerkMagMean
+*tBodyGyroJerkMagStd
 *fBodyAccMeanX
-
 *fBodyAccMeanY
-*
-fBodyAccMeanZ
-*
-fBodyAccStdX
-*
-fBodyAccStdY
-
+*fBodyAccMeanZ
+*fBodyAccStdX
+*fBodyAccStdY
 *fBodyAccStdZ
-*
-fBodyAccMeanFreqX
-*
-fBodyAccMeanFreqY
-
+*fBodyAccMeanFreqX
+*fBodyAccMeanFreqY
 *fBodyAccMeanFreqZ
-*
-fBodyAccJerkMeanX
-
+*fBodyAccJerkMeanX
 *fBodyAccJerkMeanY
-
 *fBodyAccJerkMeanZ
-*
-fBodyAccJerkStdX
-
+*fBodyAccJerkStdX
 *fBodyAccJerkStdY
-*
-fBodyAccJerkStdZ
-
+*fBodyAccJerkStdZ
 *fBodyAccJerkMeanFreqX
-*
-fBodyAccJerkMeanFreqY
-*
-fBodyAccJerkMeanFreqZ
-*
-fBodyGyroMeanX
-
+*fBodyAccJerkMeanFreqY
+*fBodyAccJerkMeanFreqZ
+*fBodyGyroMeanX
 *fBodyGyroMeanY
-*
-fBodyGyroMeanZ
-*
-fBodyGyroStdX
-*
-fBodyGyroStdY
-*
-fBodyGyroStdZ
-*
-fBodyGyroMeanFreqX
-*
-fBodyGyroMeanFreqY
-*
-fBodyGyroMeanFreqZ
-
+*fBodyGyroMeanZ
+*fBodyGyroStdX
+*fBodyGyroStdY
+*fBodyGyroStdZ
+*fBodyGyroMeanFreqX
+*fBodyGyroMeanFreqY
+*fBodyGyroMeanFreqZ
 *fBodyAccMagMean
-
 *fBodyAccMagStd
-*
-fBodyAccMagMeanFreq
-
+*fBodyAccMagMeanFreq
 *fBodyBodyAccJerkMagMean
-*
-fBodyBodyAccJerkMagStd
-*
-fBodyBodyAccJerkMagMeanFreq
-
+*fBodyBodyAccJerkMagStd
+*fBodyBodyAccJerkMagMeanFreq
 *fBodyBodyGyroMagMean
-
 *fBodyBodyGyroMagStd
-*
-fBodyBodyGyroMagMeanFreq
-
+*fBodyBodyGyroMagMeanFreq
 *fBodyBodyGyroJerkMagMean
-*
-fBodyBodyGyroJerkMagStd
-*
-fBodyBodyGyroJerkMagMeanFreq
+*fBodyBodyGyroJerkMagStd
+*fBodyBodyGyroJerkMagMeanFreq
 
-
-
-ACTIVITY LABELS
+###ACTIVITY LABELS
 
 1 = WALKING Test subject was walking when the measurement was performed
 
